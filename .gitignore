@@ -1,0 +1,9 @@
+.DS_Store
+# WordPress core, plugin, theme gốc, ảnh upload và wp-config.php (có mật khẩu DB) không đưa lên.
+# Chỉ giữ child theme tự viết.
+src/*
+!src/wp-content/
+src/wp-content/*
+!src/wp-content/themes/
+src/wp-content/themes/*
+!src/wp-content/themes/flatsome-child/
