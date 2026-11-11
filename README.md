@@ -19,8 +19,9 @@ Lab02 môn Thương mại điện tử (EC312, UIT): dựng một cửa hàng b�
 
 ```
 docker-compose.yml          3 dịch vụ: nginx, php, mysql
-Dockerfile                  php:8.3-fpm + mysqli, pdo_mysql
-nginx/default.conf          cấu hình Nginx cho WordPress
+docker/
+  php/Dockerfile            php:8.3-fpm + mysqli, pdo_mysql
+  nginx/default.conf        cấu hình Nginx cho WordPress
 src/                        mã nguồn WordPress (chỉ child theme được commit)
   wp-content/themes/flatsome-child/
 docs/screenshots/           ảnh chụp kết quả
