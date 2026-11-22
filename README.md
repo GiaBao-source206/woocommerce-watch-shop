@@ -1,6 +1,6 @@
 # iShop – Shop đồng hồ WooCommerce trên Docker (LEMP)
 
-Lab02 môn Thương mại điện tử (EC312, UIT): dựng một cửa hàng bán đồng hồ hoàn chỉnh bằng WordPress + WooCommerce, chạy trên stack **Linux · Nginx · MySQL · PHP** bằng Docker Compose.
+Lab02 môn Thiết kế Hệ thống Thương mại điện tử (EC312, UIT): dựng một cửa hàng bán đồng hồ hoàn chỉnh bằng WordPress + WooCommerce, chạy trên stack **Linux · Nginx · MySQL · PHP** bằng Docker Compose.
 
 ![Trang chủ](docs/screenshots/15_home.png)
 
